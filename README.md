@@ -10,14 +10,7 @@ This repository contains MATLAB and Python implementations for various **image c
 - **Local Brightening (`imlocalbrighten`)**: Selectively enhances darker regions without affecting bright areas.
 - **Haze Reduction (`imreducehaze`)**: Removes fog and atmospheric effects from images.
 
-## 🔧 Installation & Setup
-### **For MATLAB Users:**
-1. Clone the repository:
-   ```bash
-   git clone https://github.com/yourusername/haze-brightening.git
-   ```
-2. Open MATLAB and navigate to the project folder.
-3. Run the provided `.mlx` script for step-by-step execution.
+
 
 ### **For Python Users:**
 1. Install dependencies:
